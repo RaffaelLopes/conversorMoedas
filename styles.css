@@ -19,11 +19,13 @@ body {
     color: #ffffff;
     margin: 0;
     position: relative;
-    top: -18px
+    top:85px
   }
   
   .page-logo {
     width: 200px;
+    position: relative;
+    top: 400px
   }
   
   .social-icons {
